@@ -35,7 +35,7 @@ NoteApp is a web application that allows users to create, manage, and organize t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/noteapp.git
+   git clone https://github.com/Olutayo0910/NoteApp.git
    cd noteapp
 
 ### Contributing
